@@ -1,3 +1,4 @@
+from flask import Flask
 
-def initialize():
+def initialize(app:Flask):
     pass
